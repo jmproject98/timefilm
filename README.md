@@ -510,4 +510,50 @@ Article 11 (Criteria for Additional Use/Provision)
 
 ※ The criteria for judging additional use/provision considerations are determined and disclosed by the business/organization on their own
 
-Article 12 (Matters concerning pseudonymous information processing)
+Article 12 (Matters concerning the processing of pseudonymous information)
+
+< HayanNarae > processes pseudonymous information for the following purposes:
+
+▶ Purpose of processing pseudonymous information
+
+You can write directly.
+▶ Processing and retention period of pseudonymous information
+
+You can write directly.
+▶ Matters concerning the provision of pseudonymous information to third parties (only applicable if relevant)
+
+You can write directly.
+▶ Matters concerning the consignment of pseudonymous information processing (only applicable if relevant)
+
+You can write directly.
+▶ Items of personal information processed pseudonymously
+
+You can write directly.
+▶ Matters concerning the security measures for pseudonymous information under Article 28-4 (Obligation to ensure the safety of pseudonymous information, etc.) of the Act
+
+You can write directly.
+Article 13 (Matters concerning the personal information protection officer)
+
+① HayanNarae is responsible for overseeing personal information processing tasks and has designated the following personal information protection officer to handle complaints and remedies for information subjects related to personal information processing.
+
+▶ Personal Information Protection Officer Name: 최지민 Position: Owner Rank: Developer Contact: jm.project98@gmail.com, ※ Connects to the personal information protection department.
+
+▶ Personal Information Protection Department Department Name: Person in charge: Contact: , , ② Information subjects may contact the personal information protection officer and department with any inquiries, complaints, and remedies related to personal information protection while using HayanNarae's services (or businesses). HayanNarae will respond and process inquiries without delay.
+
+Article 14 (Designation of domestic representative)
+
+In accordance with Article 39-11 of the Personal Information Protection Act, information subjects may contact HayanNarae's designated domestic representative for matters related to personal information grievances. HayanNarae will make efforts to promptly process matters related to personal information protection officer's tasks such as personal information grievances.
+
+▶ In accordance with Article 39-11 of the Personal Information Protection Act, HayanNarae has designated a domestic representative.
+
+Domestic representative's name: [Representative's name_direct input] (In case of a corporation, corporate name and representative's name)
+
+Domestic representative's address: [Representative's address_direct input] (In case of a corporation, business location)
+
+Domestic representative's phone number: [Representative's phone number_direct input]
+
+Domestic representative's email address: [Representative's email_direct input]
+
+Article 15 (Department accepting and processing personal information access requests) In accordance with Article 35 of the Personal Information Protection Act, information subjects may request access to their personal information from the department below. HayanNarae will make efforts to promptly process personal information access requests.
+
+▶ Department accepting and processing personal information access requests Department Name: Person in charge: Contact: , ,
