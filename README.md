@@ -444,4 +444,70 @@ Retention and usage period: 00 days.
 
 ④ The personal information processor collects only the minimum necessary behavioral information for online customized advertisements and does not collect sensitive behavioral information that could clearly infringe on personal rights, interests, or privacy, such as beliefs, family and kinship relationships, education, military service, and other social activities.
 
-⑤ The personal information
+⑤ The <Personal Information Processor> does not collect behavioral information for targeted advertising purposes from online services with children under the age of 14 as their main users, knowing that they are under 14 years old, and does not provide targeted advertising to children known to be under 14 years old.
+
+⑥ The <Personal Information Processor> collects and uses advertising identifiers for online targeted advertising in mobile apps. Information subjects can block or allow app-specific advertising by changing the settings of their mobile device.
+
+‣ Blocking/allowing advertising identifiers on smartphones
+
+(1) (Android) ① Settings → ② Privacy → ③ Ads → ③ Reset Advertising ID or Delete Advertising ID
+
+(2) (iPhone) ① Settings → ② Privacy → ③ Tracking → ④ Turn off App Tracking Requests
+
+※ The menu and method may vary slightly depending on the mobile OS version.
+
+⑦ Information subjects can block or allow online targeted advertising in bulk through changes in web browser cookie settings. However, changing cookie settings may affect the use of some services, such as automatic website login.
+
+‣ Blocking/allowing targeted advertising through web browsers
+
+(1) Internet Explorer (Internet Explorer 11 for Windows 10)
+
+Select the Tools button in Internet Explorer, then select Internet Options
+
+Select the Privacy tab, choose Advanced in Settings, then select Block or Allow cookies
+
+(2) Microsoft Edge
+
+Click the '...' symbol in the top right corner of Edge, then click Settings.
+
+Click 'Privacy, search, and services' on the left side of the Settings page, then choose your tracking prevention settings in the "Tracking Prevention" section.
+
+Select whether to always use ""Strict"" tracking prevention when searching InPrivate.
+
+Choose whether to send a "Do Not Track" request in the "Privacy" section below.
+
+(3) Chrome Browser
+
+Click the '⋮' symbol (chrome customizations and control) in the top right corner of Chrome, then click Settings.
+
+Click 'Show advanced settings' at the bottom of the Settings page, then click Content settings in the "Privacy" section.
+
+Select the checkbox for 'Block third-party cookies and site data' in the Cookies section.
+
+52 | Personal Information Processing Policy Guidelines General
+
+⑧ Information subjects can contact the following for inquiries, exercise of refusal rights, and reporting of damage related to behavioral information:
+
+‣ Personal Information Protection Department
+
+Department Name: ○○○ Team
+
+Person in Charge: ○○○
+
+Contact: <Phone Number>, <Email>, <Fax Number>
+
+Article 11 (Criteria for Additional Use/Provision)
+
+< HayanNarae > may use/provide personal information additionally without the consent of the information subject in accordance with Article 15(3) and Article 17(4) of the "Personal Information Protection Act" and Article 14-2 of the "Personal Information Protection Act Enforcement Regulations." Accordingly, < HayanNarae > has considered the following matters in order to use/provide additional personal information without the consent of the information subject:
+
+▶ Whether the purpose of additional use/provision of personal information is related to the original purpose of collection
+
+▶ Whether the additional use/provision is predictable considering the circumstances of collection or processing practices
+
+▶ Whether the additional use/provision of personal information unfairly infringes on the interests of the information subject
+
+▶ Whether necessary measures such as pseudonymization or encryption have been taken to ensure security
+
+※ The criteria for judging additional use/provision considerations are determined and disclosed by the business/organization on their own
+
+Article 12 (Matters concerning pseudonymous information processing)
