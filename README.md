@@ -554,6 +554,47 @@ Domestic representative's phone number: [Representative's phone number_direct in
 
 Domestic representative's email address: [Representative's email_direct input]
 
-Article 15 (Department accepting and processing personal information access requests) In accordance with Article 35 of the Personal Information Protection Act, information subjects may request access to their personal information from the department below. HayanNarae will make efforts to promptly process personal information access requests.
+Article 15 (Department for receiving and processing personal information access requests) The data subject may request access to personal information under Article 35 of the Personal Information Protection Act from the department below. <HayanNarae> will strive to ensure that the data subject's personal information access request is processed promptly.
 
-▶ Department accepting and processing personal information access requests Department Name: Person in charge: Contact: , ,
+▶ Personal Information Access Request Reception and Processing Department
+Department name:
+Person in charge:
+Contact information:
+
+Article 16 (Remedy for infringement of data subject's rights)
+
+Data subjects may apply for dispute resolution or consultation at the Personal Information Dispute Mediation Committee, Korea Internet & Security Agency (KISA) Personal Information Infringement Report Center, etc., to receive relief from personal information infringement. For other reports and consultations on personal information infringement, please contact the following institutions.
+
+Personal Information Dispute Mediation Committee: 1833-6972 (without area code) (www.kopico.go.kr)
+Personal Information Infringement Report Center: 118 (without area code) (privacy.kisa.or.kr)
+Supreme Prosecutors' Office: 1301 (without area code) (www.spo.go.kr)
+National Police Agency: 182 (without area code) (ecrm.cyber.go.kr)
+Those who have suffered damage to their rights or interests due to the disposition made by the head of a public institution or omission under the provisions of Article 35 (Access to Personal Information), Article 36 (Correction or Deletion of Personal Information), and Article 37 (Suspension of Processing, etc., of Personal Information) of the Personal Information Protection Act may file an administrative appeal in accordance with the Administrative Appeals Act.
+
+※ For more information on administrative appeals, please visit the Central Administrative Appeals Committee website (www.simpan.go.kr).
+
+Article 17 (Matters concerning the operation and management of video information processing devices) ① <HayanNarae> installs and operates video information processing devices as follows.
+
+Legal basis and purpose for installing video information processing devices: <HayanNarae>'s
+
+Number of installations, installation locations, and filming range: Number of installations: Installation location: Filming range:
+
+Manager, responsible department, and authorized personnel for access to video information:
+
+Video information recording time, storage period, storage location, and processing method: Recording time: hours, Storage period: From recording time, Storage location and processing method:
+
+Method and location for checking video information:
+
+Measures for data subjects' requests for access to video information: Personal video information access and existence confirmation requests must be made using the application form, and access is allowed only when the data subject is filmed or when it is clearly necessary for the data subject's life, body, or property interests.
+
+Legal basis and purpose for installing video information processing devices:
+
+Article 18 (Changes to the personal information processing policy)
+
+① This personal information processing policy will be applied from May 4, 2023.
+
+② The previous personal information processing policies can be found below.
+
+Example) - Applicable from XX.X.X to XX.X.X (click)
+
+Example) - Applicable from XX.X.X to XX.X.X (click)
