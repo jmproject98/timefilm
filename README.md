@@ -402,4 +402,46 @@ Destruction method:
 
 Electronic file format information is destroyed using technical methods that make it impossible to reproduce the records.
 
+Article 7 (Matters concerning the rights and obligations of the data subject and legal representative, and how to exercise them)
 
+① Data subjects may exercise their rights to access, correct, delete, and suspend the processing of personal information at any time against HayanNarae.
+
+② The exercise of rights pursuant to Paragraph 1 can be made in writing, via email, or fax, etc., according to Article 41, Paragraph 1 of the Enforcement Decree of the Personal Information Protection Act, and HayanNarae will take action without delay.
+
+③ The exercise of rights pursuant to Paragraph 1 can be made through a legal representative or an authorized agent of the data subject. In this case, a power of attorney according to Form 11 of the Public Notice on Personal Information Processing Methods (No. 2020-7) must be submitted.
+
+④ The right to access personal information and request suspension of processing can be limited according to Article 35, Paragraph 4, and Article 37, Paragraph 2 of the Personal Information Protection Act.
+
+⑤ The request for correction or deletion of personal information cannot be made if the personal information is specified as a collection target in other legislation.
+
+⑥ HayanNarae verifies whether the person making the request for access, correction, deletion, or suspension of processing is the data subject themselves or a legitimate representative.
+
+Article 8 (Matters concerning measures to ensure the security of personal information)
+
+HayanNarae takes the following measures to ensure the security of personal information:
+
+Restricting access to personal information by granting, changing, and revoking access permissions to the database system that processes personal information, and using an intrusion prevention system to control unauthorized access from outside.
+
+Article 9 (Matters concerning the installation, operation, and refusal of devices that automatically collect personal information)
+
+HayanNarae does not use cookies that store and retrieve a data subject's usage information.
+
+Article 10 (Matters concerning the collection, use, provision, and refusal of behavioral information)
+
+① The personal information processor collects and uses behavioral information to provide optimized personalized services, benefits, and online customized advertisements to data subjects during the service usage process.
+
+② The personal information processor collects behavioral information as follows:
+
+The table for entering the items of behavioral information collected, the method of collecting behavioral information, the purpose of collecting behavioral information, the retention and usage period, and subsequent information processing methods for providing matters concerning the collection, use, provision, and refusal of behavioral information. Items of collected behavioral information, method of collecting behavioral information, purpose of collecting behavioral information, retention and usage period, and subsequent information processing methods. App service visit history is collected when tracking is allowed, providing personalized product recommendation services, and will be destroyed 180 days after collection. <In case a third party (online advertising operators, etc.) is allowed to collect and process user behavioral information for online customized advertisements> ③ The personal information processor allows the following online customized advertising operators to collect and process behavioral information:
+
+Behavioral information collection and processing advertisers: ○○○, ○○○, ○○○, ○○○,
+
+Behavioral information collection method: Automatically collected and transmitted when the user visits the company website or runs the app.
+
+Behavioral information items collected and processed: User's web/app visit history, search history, purchase history.
+
+Retention and usage period: 00 days.
+
+④ The personal information processor collects only the minimum necessary behavioral information for online customized advertisements and does not collect sensitive behavioral information that could clearly infringe on personal rights, interests, or privacy, such as beliefs, family and kinship relationships, education, military service, and other social activities.
+
+⑤ The personal information
