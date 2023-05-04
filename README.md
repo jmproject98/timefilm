@@ -338,4 +338,68 @@ HayanNarae 은(는) 정보주체의 이용정보를 저장하고 수시로 불�
 
 예시 ) - 20XX. X. X ~ 20XX. X. X 적용 (클릭)
 
-예시 ) - 20XX. X. X ~ 20XX. X. X 적용 (클릭)
+
+
+
+TimeFilm
+
+HayanNarae ('https://hayannarae.blogspot.com', hereinafter referred to as 'HayanNarae') establishes and discloses a personal information processing policy in accordance with Article 30 of the Personal Information Protection Act to protect the personal information of information subjects and to quickly and smoothly handle any related grievances.
+
+○ This personal information processing policy will be applied from May 4, 2023.
+
+Article 1 (Purpose of Processing Personal Information)
+
+HayanNarae ('https://hayannarae.blogspot.com', hereinafter referred to as 'HayanNarae') processes personal information for the following purposes. The processed personal information will not be used for any purpose other than the following purposes, and if the purpose of use changes, necessary measures such as obtaining separate consent in accordance with Article 18 of the Personal Information Protection Act will be taken.
+
+Website membership registration and management
+Personal information is processed for various notifications and announcements.
+
+Utilization for marketing and advertising
+Personal information is processed for the purpose of providing services and advertising based on demographic characteristics, analyzing access frequency, or generating statistics on members' use of services.
+
+Article 2 (Processing and Retention Period of Personal Information)
+
+① HayanNarae processes and retains personal information within the personal information retention and usage period stipulated by law or the personal information retention and usage period agreed upon when collecting personal information from the information subjects.
+
+② The individual personal information processing and retention periods are as follows.
+
+<Utilization for Marketing and Advertising> Personal information related to <Utilization for Marketing and Advertising> will be retained and used for the above purpose from the date of consent to collection and use until <1 year>. Basis for retention: App Store Personal Information Processing Policy, Relevant legislation: Records on display/advertising: 6 months, Exceptions:
+Article 3 (Items of Personal Information Processed)
+
+① HayanNarae processes the following personal information items.
+
+1 <Utilization for Marketing and Advertising> Required items: Service usage records, Optional items:
+
+Article 4 (Matters concerning the provision of personal information to third parties)
+
+① HayanNarae processes personal information only within the scope specified in Article 1 (Purpose of Processing Personal Information) and provides personal information to third parties only when the consent of the information subject, special provisions of laws, etc., correspond to Articles 17 and 18 of the Personal Information Protection Act.
+
+② HayanNarae provides personal information to third parties as follows.
+
+<> Personal information recipient: Purpose of using personal information by the recipient: Service usage records, Retention and usage period of the recipient: 1 year
+
+Article 5 (Matters concerning the consignment of personal information processing)
+
+① HayanNarae consigns personal information processing tasks as follows for smooth personal information business processing.
+
+<> Consignee (Trustee): Contents of consigned tasks: Consignment period: ② HayanNarae, when concluding a consignment contract, specifies matters concerning the prohibition of personal information processing for purposes other than the purpose of performing the consigned tasks, technical and administrative protection measures, restrictions on re-consignment, management and supervision of the trustee, and liability for damages in documents such as contracts in accordance with Article 26 of the Personal Information Protection Act, and supervises whether the trustee processes personal information safely.
+③ If the contents of the consigned tasks or the trustee change, the personal information processing policy will be disclosed without delay.
+
+Article 6 (Procedures and Methods for Destruction of Personal Information)
+
+① HayanNarae immediately destroys the relevant personal information when the retention period of personal information has elapsed or the purpose of processing has been achieved.
+
+② If the personal information retention period agreed upon by the information subject has elapsed or the purpose of processing has been achieved, but the personal information must continue to be preserved due to other laws, the relevant personal information is transferred to a separate database (DB) or stored in a different storage location.
+
+Legal basis:
+Items of personal information to be preserved: Account information, transaction date
+
+③ The procedure and method for destroying personal information are as follows.
+
+Destruction procedure: HayanNarae selects personal information for which a reason for destruction has occurred and destroys the personal information with the approval of HayanNarae's personal information protection officer.
+
+Destruction method:
+
+Electronic file format information is destroyed using technical methods that make it impossible to reproduce the records.
+
+
